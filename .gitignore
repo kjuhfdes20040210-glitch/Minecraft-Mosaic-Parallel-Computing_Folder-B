@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# IDE
+.vscode/
+
+# Outputs
+*.zip
+mosaic.png
+contact_sheet.png
+graded_sheet.png
